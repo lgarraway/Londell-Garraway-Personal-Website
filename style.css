@@ -1,0 +1,12 @@
+html {
+  font-family: sans-serif;
+  font-size: 16px;
+  background-color: cadetblue;
+}
+
+body {
+  background: rgb(red, green, blue);
+  max-width: 960px;
+  color: burlywood;
+  margin: 0 auto;
+}
